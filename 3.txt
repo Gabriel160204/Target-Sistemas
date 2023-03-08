@@ -4,7 +4,7 @@ Resposta: 9.
 b) A lógica é multiplicar cada número por 2. Portanto, o próximo número é 128. Resposta: 128.
 
 c) A lógica é o número é igual ao anterior acrescido de um número ímpar que segue a sequência. Realizando a subtração dos dois últimos números, temos que 36 - 25 = 11. Assim, devemos acrescentar 11 + 2 = 13 ao último número, obtendo 36 + 13 = 49.
-Resposta 200.
+Resposta 49.
 
 d) A lógica é elevar cada número par da sequência ao quadrado. Portanto, o próximo número é 100.
 Resposta: 100.
