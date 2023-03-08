@@ -1,0 +1,33 @@
+Para resolver esse problema, vamos precisar encontrar o tempo que cada veículo leva para percorrer a distância entre as duas cidades e, a partir disso, determinar em que ponto da estrada eles se cruzam.
+
+Vamos começar encontrando o tempo que o carro leva para percorrer os 100 km entre as cidades de Ribeirão Preto e Franca:
+
+tempo_carro = distância / velocidade = 100 km / 110 km/h = 0,91 h
+
+Agora, vamos encontrar o tempo que o caminhão leva para percorrer a mesma distância, considerando que ele leva 5 minutos a mais em cada pedágio:
+
+tempo_caminhão = distância / velocidade + 2 * tempo_pedágio = 100 km / 80 km/h + 2 * (5 min / 60 min) = 1,42 h
+
+Onde o tempo de cada pedágio foi considerado como 5 minutos (0,08 horas).
+
+Agora, podemos determinar em que ponto da estrada eles se cruzam. Para isso, vamos somar as distâncias percorridas por cada veículo, considerando que elas se encontram em um ponto equidistante entre as duas cidades:
+
+distância_total = distância_cidade + distância_cidade = 100 km + 100 km = 200 km
+
+tempo_total = tempo_carro + tempo_caminhão = 0,91 h + 1,42 h = 2,33 h
+
+velocidade_total = distância_total / tempo_total = 200 km / 2,33 h = 85,8 km/h
+
+Agora, podemos determinar em que ponto da estrada eles se cruzam:
+
+distância_carro = velocidade_carro * tempo_total = 110 km/h * 2,33 h = 256,3 km
+
+distância_caminhão = velocidade_caminhão * tempo_total = 80 km/h * 2,33 h = 186,4 km
+
+A distância percorrida pelo carro é maior do que a distância percorrida pelo caminhão, o que significa que o carro estará mais próximo da cidade de Ribeirão Preto quando eles se cruzarem.
+
+O ponto em que eles se encontram pode ser encontrado pela diferença entre as distâncias percorridas por cada veículo:
+
+distância_total = distância_carro - distância_caminhão = 69,9 km
+
+Assim, eles se cruzam a 69,9 km da cidade de Ribeirão Preto.
