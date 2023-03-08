@@ -1,0 +1,16 @@
+a) A lógica é adicionar 2 ao número anterior. Portanto, o próximo número é 9.
+Resposta: 9.
+
+b) A lógica é multiplicar cada número por 2. Portanto, o próximo número é 128. Resposta: 128.
+
+c) A lógica é o número é igual ao anterior acrescido de um número ímpar que segue a sequência. Realizando a subtração dos dois últimos números, temos que 36 - 25 = 11. Assim, devemos acrescentar 11 + 2 = 13 ao último número, obtendo 36 + 13 = 49.
+Resposta 200.
+
+d) A lógica é elevar cada número par da sequência ao quadrado. Portanto, o próximo número é 100.
+Resposta: 100.
+
+e) A lógica é somar os dois números anteriores. Portanto, o próximo número é 13.
+Resposta: 13.
+
+f) A lógica é seguir a sequência dos números que começam do a letra 'd' portanto, o proximo número é 200.
+Resposta 200.
